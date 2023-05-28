@@ -1,3 +1,2 @@
-# job_pre
-this res mainly contains my competition code file  
-的长发短发VS对方窜
+# 比赛代码库
+this res mainly contains my competition code file 
